@@ -3,5 +3,5 @@ Intro to GitHub
 one  
 two  
 three  
-four  
-six
+four   
+five  
